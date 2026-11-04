@@ -26,6 +26,8 @@ client violates Roblox Terms of Use.
 | Athena | [View profile](https://roblox-profile-index.github.io/athena/) |
 | Nucleus | [View profile](https://roblox-profile-index.github.io/nucleus/) |
 | Wave | [View profile](https://roblox-profile-index.github.io/wave/) |
+| JJSploit | [View profile](https://roblox-profile-index.github.io/jjsploit/) |
+| Ronix | [View profile](https://roblox-profile-index.github.io/ronix/) |
 
 ---
 
@@ -33,13 +35,15 @@ client violates Roblox Terms of Use.
 
 ```
 .
-├── index.html          # index page (GitHub Pages entry point)
-├── athena/index.html   # Athena profile
-├── nucleus/index.html  # Nucleus profile
-├── wave/index.html     # Wave profile
-├── README.md           # this file
-├── sitemap.xml         # sitemap for the index and profiles
-└── robots.txt          # crawl policy
+├── index.html            # index page (GitHub Pages entry point)
+├── athena/index.html     # Athena profile
+├── nucleus/index.html    # Nucleus profile
+├── wave/index.html       # Wave profile
+├── jjsploit/index.html   # JJSploit profile
+├── ronix/index.html      # Ronix profile
+├── README.md             # this file
+├── sitemap.xml           # sitemap for the index and profiles
+└── robots.txt            # crawl policy
 ```
 
 ---
